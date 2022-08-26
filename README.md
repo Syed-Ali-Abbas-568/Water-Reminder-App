@@ -53,3 +53,4 @@ When a reminder is enabled, it should display a notification to the user when th
 
 
 ## Video defining the use cases one by one
+[![Watchthis](THUMNAIL)](https://www.youtube.com/watch?v=q9piEEuFA4M)
